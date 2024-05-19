@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/lexical-editor/static/css/main.a10519be.css",
+    "main.js": "/lexical-editor/static/js/main.e7eaa6b8.js",
+    "static/js/453.80f217a1.chunk.js": "/lexical-editor/static/js/453.80f217a1.chunk.js",
+    "index.html": "/lexical-editor/index.html",
+    "main.a10519be.css.map": "/lexical-editor/static/css/main.a10519be.css.map",
+    "main.e7eaa6b8.js.map": "/lexical-editor/static/js/main.e7eaa6b8.js.map",
+    "453.80f217a1.chunk.js.map": "/lexical-editor/static/js/453.80f217a1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a10519be.css",
+    "static/js/main.e7eaa6b8.js"
+  ]
+}
